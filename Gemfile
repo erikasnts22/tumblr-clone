@@ -17,7 +17,7 @@ gem 'dotenv-rails'
 gem 'sass-rails'
 
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
-gem 'webpacker'
+# gem 'webpacker'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
@@ -51,7 +51,6 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 
 gem "devise"
-gem 'rename'
 
 # Use Sass to process CSS
 # gem "sassc-rails"
